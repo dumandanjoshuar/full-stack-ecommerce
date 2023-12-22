@@ -21,7 +21,7 @@ function App() {
   
   const [user, setUser] = useState({
     id: null,
-    isAdmin: null
+    isAdmin: null 
   })
   
   const unsetUser = () => {
